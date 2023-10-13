@@ -1,3 +1,0 @@
-/home/lucydshrimp/documents/projects/cpp/build/CMakeFiles/LogClass.dir
-/home/lucydshrimp/documents/projects/cpp/build/CMakeFiles/edit_cache.dir
-/home/lucydshrimp/documents/projects/cpp/build/CMakeFiles/rebuild_cache.dir
