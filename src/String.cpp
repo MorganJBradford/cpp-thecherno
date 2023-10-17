@@ -34,11 +34,11 @@ std::ostream& operator<<(std::ostream& stream, const String& string) {
     return stream;
 }
 
-int main() {
-    String string = "Cherno";
-    String second = string;
-    second[2] = 'a';
-
-    std::cout << string << std::endl;
-    std::cout << second << std::endl;
-}
+//int main() {
+//    String string = "Cherno";
+//    String second = string;
+//    second[2] = 'a';
+//
+//    std::cout << string << std::endl;
+//    std::cout << second << std::endl;
+//}
